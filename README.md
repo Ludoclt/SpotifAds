@@ -6,7 +6,7 @@
 
 ## What is SpotifAds ?
 
-SpotfAds is an ads blocker proxy for Spotify, it blocks ads requests made by Spotify. This is a small, very light program that can run in the background in the taskbar and start automatically when Windows starts up if the option is enabled.
+SpotfAds is an ads blocker proxy for Spotify, it blocks ads requests made by Spotify. This is a small, very light program that can run in background in the taskbar and start automatically when Windows starts up if the option is enabled.
 
 - It can be installed from [here](https://github.com/Ludoclt/SpotifAds/releases)
 
@@ -33,7 +33,7 @@ SpotfAds is an ads blocker proxy for Spotify, it blocks ads requests made by Spo
 
 ## Additional Notes
 
-- The application requires .NET 5, but if the installation setup worked correctly you don't have to worry about it, otherwise install it from [here](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+- The application requires .NET 5, but if the installation setup worked correctly and if you agreed to install it when asked to do so you don't have to worry about it, otherwise install it from [here](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 - I deliberately prevent the execution of the application if it is not installed in the user folder to avoid problems with automatic start or installation of certificates. So please use the default directory location in the installation setup
 
